@@ -11,7 +11,7 @@ Emily: Lead product presentation and pitch.
 
 Not functional in demo: Profile, Saved, and Settings pages.
 Semi-functional in demo: Sell form takes data, can be filled out. However, this data is not backed up to a database.
-Functional in demo: Homepage, Registration, Log In (confirms with data sent to database from registration form, basic password/username hashing).
+Functional in demo: Homepage, Registration, Log In (checks information with database, uses basic password/username hashing).
 
 To run:
 Run python run.py from command line
